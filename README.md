@@ -2,6 +2,7 @@
 
 A Book like Application for a game I love called Honkai Impact 3rd
 Using TabViews to navigate Home, New Release, Memorial Arena
+
 Some of the files are missing due to insufficient space.
 
 Home View
